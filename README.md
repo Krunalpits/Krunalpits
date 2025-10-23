@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalpits&label=Profile%20views&color=0e75b6&style=flat" alt="krunalpits" /> </p>
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I’m currently working on **Next JS Project**
 
-- 🌱 I’m currently learning **Django & Nginx**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://krunal-pithadia-website.vercel.app/](https://krunal-pithadia-website.vercel.app/)
 
