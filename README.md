@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full stack development, cloud deployment (AWS), and scalable web architecture.**
 
-- 📫 How to reach me **kpithadia3058@sdsu.edu**
+- 📫 How to reach me **krunalpits2000@gmail.com**
 
 - ⚡ Fun fact **I learn best by building projects.**
 
