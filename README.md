@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **GO Project**
 
-- 🌱 I’m currently learning **GO/GO Lang**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://krunal-pithadia-website.vercel.app/](https://krunal-pithadia-website.vercel.app/)
 
