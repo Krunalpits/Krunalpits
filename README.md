@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalpits&label=Profile%20views&color=0e75b6&style=flat" alt="krunalpits" /> </p>
 
-- 🔭 I’m currently working on **GO Project**
+- 🔭 I’m currently working on **IDE**
 
 - 🌱 I’m currently learning **System Design**
 
