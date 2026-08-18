@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunalpits&label=Profile%20views&color=0e75b6&style=flat" alt="krunalpits" /> </p>
 
-- 🔭 I’m currently working on **IDE**
+- 🔭 I’m currently working on ** Mobile App **
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **DSA & Leetcode**
 
 - 👨‍💻 All of my projects are available at [https://krunal-pithadia-website.vercel.app/](https://krunal-pithadia-website.vercel.app/)
 
